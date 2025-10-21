@@ -43,10 +43,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/langchain-ai/langchain-financial"
-Repository = "https://github.com/langchain-ai/langchain-financial"
-Documentation = "https://python.langchain.com/docs/integrations/retrievers/langchain_financial"
-"Bug Tracker" = "https://github.com/langchain-ai/langchain-financial/issues"
+Homepage = "https://github.com/siri1404/langchain-financial"
+Repository = "https://github.com/siri1404/langchain-financial"
+Documentation = "https://github.com/siri1404/langchain-financial#readme"
+"Bug Tracker" = "https://github.com/siri1404/langchain-financial/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["langchain_financial"]
