@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "langchain-financial"
-version = "0.1.0"
+version = "0.1.1"
 description = "Hybrid financial document retriever for LangChain with RRF fusion and metadata filtering"
 readme = "README.md"
 requires-python = ">=3.9.0,<4.0.0"
